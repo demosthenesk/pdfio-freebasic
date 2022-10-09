@@ -8,4 +8,4 @@ pdfio includes [documentation](https://github.com/michaelrsweet/pdfio/tree/maste
 
 You have to read the pdfio documentation to understand the freebasic translation of the header files.
 
-The freebasic header files were produced automatically from [fbfrog](https://github.com/dkl/fbfrog) program.
+The freebasic header files were produced automatically with [fbfrog](https://github.com/dkl/fbfrog) program.
